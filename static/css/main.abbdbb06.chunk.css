@@ -1,0 +1,2 @@
+.Loader{display:flex;width:100%;justify-content:center;align-items:center}.Loader__content{border-radius:50%;width:2em;height:2em;margin:1em auto;border:.3em solid #ddd;border-left-color:#000;animation:load8 1.2s linear infinite}@keyframes load8{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.abbdbb06.chunk.css.map */
